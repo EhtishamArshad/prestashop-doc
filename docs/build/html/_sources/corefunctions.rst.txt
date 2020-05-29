@@ -1,0 +1,2 @@
+Prestashop core functions
+=========================

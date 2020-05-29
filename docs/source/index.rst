@@ -14,9 +14,11 @@ Plugin Information
 ==================
 
 .. toctree::
-   :maxdepth: 2
+   :numbered:
 
    information
+   corefunctions
+   hooks
 
 
 Indices and tables
