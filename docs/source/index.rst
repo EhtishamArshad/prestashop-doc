@@ -10,13 +10,13 @@ Prestashop Documentation
 :Author: Ehtisham Arshad
 
 
-Welcome to Prestashop's documentation!
-====================================================
+Plugin Information
+==================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   information
 
 
 Indices and tables
